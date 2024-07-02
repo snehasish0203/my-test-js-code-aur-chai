@@ -17,6 +17,16 @@ let someNumber =33
 
 let stringNumber= String(someNumber)
 
-console.log(stringNumber);
+// console.log(stringNumber);
 
-console.log(typeof stringNumber);
+// console.log(typeof stringNumber);
+
+
+/************************************ convertion ****************************************/
+
+ let value =5
+
+ let negvalue= -value
+
+//  console.log(negvalue);
+
